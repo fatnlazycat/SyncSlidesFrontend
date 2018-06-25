@@ -1,0 +1,6 @@
+descriptor:      [C:\Users\Dima\Documents\NetBeansProjects\SyncSlidesFrontendTest\bangladesh-1103\app.yaml]
+source:          [C:\Users\Dima\Documents\NetBeansProjects\SyncSlidesFrontendTest\bangladesh-1103]
+target project:  [bangladesh-1103]
+target service:  [default]
+target version:  [20180605t172901]
+target url:      [https://bangladesh-1103.appspot.com]
